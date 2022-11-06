@@ -1,0 +1,41 @@
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main { 
+    color:white;
+    background-color: blue;
+    text-align: left;
+    font-weight: bold;
+    font-size: 33px;
+
+}
+
+.navbox {
+    font-size: 1rem;
+    background: red;
+    color: white;
+    padding: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    display: flexbox;
+    width:100%;
+}
+
+.recipe {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    color: blue;
+    text-align: left;
+    padding: 4px 4px;
+   
+}
+
+.img-main img {
+    text-align: right;
+    width: 1247px;
+}
+
+
+
